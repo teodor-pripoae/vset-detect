@@ -1,0 +1,6 @@
+/target
+/bin
+/release
+/database.db*
+/*.csv
+/kn.yml
